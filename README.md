@@ -1,2 +1,0 @@
-# KillerGhost
-Proyecto Website
